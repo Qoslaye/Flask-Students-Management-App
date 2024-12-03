@@ -31,3 +31,11 @@ This is a simple Flask web application to manage students' information using a S
    ```bash
    git clone https://github.com/Qoslaye/flask-students-Management-app.git
    cd flask-students-Management-app
+
+
+   ---
+## 📸 Screenshot
+---
+<img width="928" alt="1" src="https://github.com/user-attachments/assets/0eaf44c0-5e9c-4337-bc98-f2b692ffa5c0">
+<img width="926" alt="2" src="https://github.com/user-attachments/assets/cc6c3dec-3f87-49c9-b955-04313813c92c">
+<img width="940" alt="3" src="https://github.com/user-attachments/assets/fc522675-b620-44b1-a843-48b9aedc642a">
